@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Downloads\\jgraphx (1).jar",
+        "c:\\Downloads\\Material[2130]\\jparsec-3.0.jar"
+    ]
+}
